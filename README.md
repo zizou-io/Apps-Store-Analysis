@@ -37,38 +37,49 @@ Dataset on Kaggle: https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ## SQL Queries:
 
+---
+
 - **Average App Rating:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture.PNG)
+---
 
 - **App Ratings Distribution:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture1.PNG)
+---
 
 - **Category-wise Installs:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture2.PNG)
+---
 
 - **Highest Rated Genres:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture3.PNG)
+---
 
 - **Free and Paid Apps Breakdown:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture5.PNG)
+---
 
 - **User Reviews Sentiment Overview:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture6.PNG)
+---
 
 - **App-specific Sentiment Analysis:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture7.PNG)
+---
 
 - **Most Positively Reviewed App:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture8.PNG)
+---
 
 - **Top 10 Positively Reviewed Games:**
 
 ![image](https://github.com/zizou-io/Apps-Store-Analysis/blob/main/Capture9.PNG)
+---
